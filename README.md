@@ -1,2 +1,7 @@
-# doc
-doc
+# UML example
+
+```plantuml
+@startuml
+Bob -> Alice : hello
+@enduml
+```
